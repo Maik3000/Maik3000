@@ -12,7 +12,7 @@
 
 </p>
 
-### 🌐 Check out my [Portfolio](https://[tusitio.com](https://maik3000.github.io/))
+### 🌐 Visit my [Portfolio](https://[tusitio.com](https://maik3000.github.io/))
 ---
 
 ### 🛠️ Tech Stack
