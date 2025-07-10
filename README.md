@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mayco 👋</h1>
 
 ### 🚀 About Me
-Cloud | ETL | ML | BI | Big Data <br>
+**Cloud | ETL | ML | BI | Big Data** <br>
 
 <p>
   
