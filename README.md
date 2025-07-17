@@ -12,7 +12,7 @@
 
 </p>
 
-### 🌐 Visit my [Portfolio](https://maik3000.github.io/))
+### 🌐 Visit my [Portfolio](https://maik3000.github.io)
 ---
 
 ### 🛠️ Tech Stack
