@@ -43,7 +43,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TrinoDB](https://img.shields.io/badge/Trino-000000?style=for-the-badge&logo=trino&logoColor=white) 
+![TrinoDB](https://img.shields.io/badge/Trino-000000?style=for-the-badge&logo=trino&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFA500?style=for-the-badge&logo=duckduckgo&logoColor=white)
 
 ####  Tools  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
